@@ -1,0 +1,22 @@
+{
+  "name": "funkcionalnostknjiga",
+  "version": "1.0.0",
+  "description": "Funkcionalnost",
+  "main": "funkcionalnost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+     "type": "git",
+       "url": "git+https://github.com/anjanrt/vezba5.git"
+  },
+  "keywords": [
+    "funkcija",
+    "metoda"
+  ],
+  "author": "Anja Mladenovic",
+  "license": "ISC",
+  "dependencies": {
+    "listaknjiga": "file:../Lista"
+  }
+}
